@@ -17,8 +17,8 @@ Este é o repositório do projeto integrador da turma de graduação em Engenhar
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Brettas2602/Projeto-Integrador-2025-1.git
-cd Projeto-Integrador-2025-1
+git clone https://github.com/adriamweb/sistema-eletronico-de-rastreamento-de-cancer-uterino.git
+cd sistema-eletronico-de-rastreamento-de-cancer-uterino
 ```
 
 ### 2. Instale as dependências
@@ -41,6 +41,7 @@ O projeto estará disponível em: [http://localhost:3000](http://localhost:3000)
 
 ## 📦 Tecnologias utilizadas
 
+* Golang
 * [Next.js](https://nextjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * JavaScript
